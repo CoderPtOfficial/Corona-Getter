@@ -20,13 +20,13 @@ Boolean Exist=cov.GetCov("Spain");
 
 >Checks if exist the country and get all the information. The information is stored in properties
 
-'''
+```
 cov.TotalConfirmed;
 cov.NewConfirmed;
 cov.TotalDeaths;
 cov.NewDeaths;
 cov.TotalRecovered;
 cov.NewRecovered;
-'''
+```
 
 >This is the properties
